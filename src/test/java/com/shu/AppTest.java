@@ -16,7 +16,7 @@ public class AppTest {
 	{
 		
 	  App myapp=new App();
-      Assert.assertEquals(1,myapp.userlogin("Admin","admin123"));
+      Assert.assertEquals(1,myapp.userlogin("Admin","admin12"));
 	}
 
 
